@@ -7,7 +7,7 @@
     android:background="#f5f5f5"
     android:padding="25dp"
     tools:context=".ui.FragmentAdd">
-    
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="113dp"
