@@ -1,8 +1,3 @@
-/*
-*  Dev - By Dwi Nur Cahyo
-*  Github : github.com/dwinuray
-* */
-
 package com.dwinuray.app_assignment.ui;
 
 import android.content.Context;

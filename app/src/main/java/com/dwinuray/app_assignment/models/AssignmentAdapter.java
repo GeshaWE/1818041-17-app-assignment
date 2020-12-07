@@ -1,9 +1,5 @@
 package com.dwinuray.app_assignment.models;
 
-/*
- *  Dev - By Dwi Nur Cahyo
- *  Github : github.com/dwinuray
- * */
 
 import android.app.Activity;
 import android.content.Context;
