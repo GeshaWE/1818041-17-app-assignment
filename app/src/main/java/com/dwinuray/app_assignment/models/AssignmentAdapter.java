@@ -114,9 +114,3 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.Vi
 
     }
 }
-
-
-/*
- *  Dev - By Dwi Nur Cahyo
- *  Github : github.com/dwinuray
- * */

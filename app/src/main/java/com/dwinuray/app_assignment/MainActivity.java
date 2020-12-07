@@ -22,15 +22,7 @@ public class MainActivity extends AppCompatActivity {
         NavController navController  = Navigation.findNavController(this, R.id.fragment);
         BottomNavigationView navView = findViewById(R.id.bottomNavigationView);
 
-        // change app bar
-//        AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(
-//
-//                R.id.fragmentHome, R.id.fragmentAdd, R.id.fragmentAbout
-//        ).build();
-
         // render
         NavigationUI.setupWithNavController(navView, navController);
-//        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
-
     }
 }
