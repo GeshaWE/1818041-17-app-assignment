@@ -92,8 +92,4 @@ public class FragmentHome extends Fragment {
 
     }
 
-    /*
-     *  Dev - By Dwi Nur Cahyo
-     *  Github : github.com/dwinuray
-     * */
 }
