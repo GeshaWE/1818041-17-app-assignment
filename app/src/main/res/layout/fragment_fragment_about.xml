@@ -7,16 +7,7 @@
     android:background="#f5f5f5"
     android:padding="25dp"
     tools:context=".ui.FragmentAdd">
-
-    <!--
-
-        /*
-        *  Dev - By : Dwi Nur Cahyo
-        *             Gesha WE
-        *  Github : github.com/dwinuray
-        *           github.com/GeshaWE
-        * */
-    -->
+    
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="113dp"
